@@ -1,4 +1,4 @@
-package org.learning.sendrecv;
+package org.learning.helloworld;
 
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.Connection;
